@@ -1,0 +1,69 @@
+.robot-head {
+    width: 100px;
+    height: 100px;
+    background-color: dodgerblue;
+    position: absolute;
+}
+
+.robot-eye-1 {
+    width: 20px;
+    height: 20px;
+    background-color: white;
+    position: absolute;
+    left: 20px;
+    top: 20px;
+}
+
+.robot-pupil-1 {
+    width: 10px;
+    height: 10px;
+    background-color: black;
+    position: absolute;
+    left: 5px;
+    top: 5px;
+}
+
+.robot-eye-2 {
+    width: 20px;
+    height: 20px;
+    background-color: white;
+    position: absolute;
+    left: 60px;
+    top: 20px;
+}
+
+.robot-pupil-2 {
+    width: 10px;
+    height: 10px;
+    background-color: black;
+    position: absolute;
+    left: 5px;
+    top: 5px;
+}
+
+.robot-mouth {
+    width: 60px;
+    height: 20px;
+    background-color: black;
+    position: absolute;
+    left: 20px;
+    top: 60px;
+}
+
+.robot-tooth-1 {
+    width: 8px;
+    height: 8px;
+    background-color: white;
+    position: absolute;
+    left: 0px;
+    top: 0px;
+}
+
+.robot-tooth-2 {
+    width: 8px;
+    height: 8px;
+    background-color: white;
+    position: absolute;
+    left: 10px;
+    top: 0px;
+}
